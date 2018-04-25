@@ -1,0 +1,32 @@
+body{
+background-image:url("http://www.powerpointhintergrund.com/uploads/grunge-diamond-metal-background-1.jpeg");
+padding:0px;
+margin: 0px;
+font-size:25px;
+color: #FFFFFF;     
+background-size: cover;
+background-repeat: no-repeat;
+text-align:center;
+}
+h1{
+font-size:55px;
+color:orange;
+text-decoration:underline;  
+text-align:center;  
+}
+ul{
+list-style-type: none;
+margin:10px;
+overflow:hidden;
+background-color:#3A3A3AFF;
+text-align:center;
+border:7px solid black ;
+padding:5px;
+}
+footer{
+ text-align:right;
+background-color:#bebebe;  
+font-size:11px;
+color:#000000;
+padding:2px; 
+}
